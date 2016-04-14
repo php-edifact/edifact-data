@@ -1,0 +1,15 @@
+{
+    "name": "sabas/edifact-data",
+    "description": "EDIFACT DATA",
+    "keywords": ["EDI", "EDIFACT", "message", "container"],
+    "homepage": "https://github.com/sabas/edifact-data",
+    "support": {
+        "issues": "https://github.com/sabas/edifact-data/issues"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/sabas/edifact-data"
+        }
+    ]
+}
