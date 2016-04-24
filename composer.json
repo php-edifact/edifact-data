@@ -1,7 +1,7 @@
 {
     "name": "sabas/edifact-data",
-    "description": "EDIFACT DATA",
-    "keywords": ["EDI", "EDIFACT", "message", "container"],
+    "description": "Edifact Data Mappings in xml",
+    "keywords": ["EDI", "EDIFACT", "message", "container", "mapping"],
     "homepage": "https://github.com/sabas/edifact-data",
     "support": {
         "issues": "https://github.com/sabas/edifact-data/issues"
